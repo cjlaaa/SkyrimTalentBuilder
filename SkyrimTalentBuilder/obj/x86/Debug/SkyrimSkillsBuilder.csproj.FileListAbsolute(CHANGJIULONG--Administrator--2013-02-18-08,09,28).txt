@@ -1,0 +1,9 @@
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\bin\Debug\SkyrimSkillsBuilder.exe
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\bin\Debug\SkyrimSkillsBuilder.pdb
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\obj\x86\Debug\SkyrimSkillsBuilder.Form1.resources
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\obj\x86\Debug\SkyrimSkillsBuilder.Properties.Resources.resources
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\obj\x86\Debug\SkyrimSkillsBuilder.exe
+E:\学习资料\百度云\开发\Projects\SkyrimSkillsBuilder\SkyrimSkillsBuilder\obj\x86\Debug\SkyrimSkillsBuilder.pdb
